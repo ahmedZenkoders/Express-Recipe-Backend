@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"zinger",
+        "ingredients":"patty"
+    },
+    {
+        "id":2,
+        "name":"Steak",
+        "ingredients":"beef"
+    },
+    {
+        "id":3,
+        "name":"Biryani",
+        "ingredients":"Rice"
+    }
+]
